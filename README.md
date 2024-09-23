@@ -6,4 +6,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuehnjoanna&show_icons=true&locale=en&layout=compact" alt="kuehnjoanna" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuehnjoanna&" alt="kuehnjoanna" /></p>
